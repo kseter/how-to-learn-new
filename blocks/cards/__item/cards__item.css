@@ -1,0 +1,9 @@
+.cards__item {
+  max-width: 240px;
+  list-style-type: none;
+  padding: 60px 100px 0 0;
+}
+
+.cards__item:nth-child(3) {
+  padding-right: 0px;
+}

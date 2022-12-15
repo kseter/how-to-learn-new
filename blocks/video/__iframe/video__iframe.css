@@ -1,0 +1,7 @@
+.video__iframe {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+  max-height: 266px;
+  overflow: visible;
+}
