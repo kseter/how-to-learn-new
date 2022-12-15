@@ -1,8 +1,3 @@
-@import url(./__title/feynman__title.css);
-@import url(./__subtitle/feynman__subtitle.css);
-@import url(./__link/feynman__link.css);
-
-
 .feynman {
   display: flex;
   flex-direction: column;

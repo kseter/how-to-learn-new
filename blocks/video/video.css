@@ -1,7 +1,3 @@
-@import url(./__iframe/video__iframe.css);
-@import url(./_iframe/video_iframe.css);
-
-
 .video {
   display: flex;
   align-items: center;
