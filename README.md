@@ -14,14 +14,9 @@ ENG
 
 "How to learn"
 
-
 In this project:
 BEM Nested,
 flex-box,
 GRID Layout
-
-Description:
-
-The project is intended to help students to motivate themselves to continue their studies. "How to learn" contains several blocks with examples of the theoretical methods of Feyman and Kauyman, the story of Barbara Oakley and the book of Salman Khan. Also, 2 videos with motivating speeches about procrastination have been added to the project. The project also provides study and brain statistics to provide an overview of the topic.
 =======
 Ссылка на проект: https://kseter.github.io/how-to-learn-new/
